@@ -1,0 +1,2 @@
+# foodDrinksEmojiMeaning
+Created with CodeSandbox
